@@ -1,0 +1,17 @@
+1.Config server app - for common euroke service --->not geetting (SSL false issue)
+2.ZIPKIN is not work-->full details for call API ( from any seever appln)
+3.render issue -using fiegn client ->overriding fiegn->custome error handling -->order service or product
+3.zipkin dashboard and slutch (using docker)
+-------------------------------------------------------------------------------------------------------
+4.Limited APIs within 1 second (using docker)--class(
+
+5.doubts--->if call direct api --will show service is down..
+           i have one api but connecteed multiple service..if any one server is down how to handle?
+-------------------------------------4 and 5 are Microservices with Spring Boot, Spring Cloud,
+ Docker, K8s)--Microservice implimentaion-70and 71 part-------------------------------------------
+
+-------------------------------------------------------------------------------------------------------
+im working on the tree strucutre functioanlity (fetch data api complted now im working on the checking 
+and uncheck funcationality)
+
+
